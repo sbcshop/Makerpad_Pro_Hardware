@@ -1,18 +1,26 @@
 # Makerpad_Pro_Hardware
 
+This GitHub provides hardware design files for Makerpad Pro.
 
 ### Repository Contents:
-  - [/Design Data]() - This directory contains Schematic, Top and Bottom View
-  - [/Mechanical Data]() - This directory contains Dimension, 3D and STEP files
-  - [PiBeam Getting Started Guide](https://github.com/sbcshop/PiBeam_Software) - This repo contains PiBeam Getting Started and Sample Codes.
+  - [/Design Data](https://github.com/sbcshop/Makerpad_Pro_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
+  - [/Mechanical Data](https://github.com/sbcshop/Makerpad_Pro_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
+  - [Makerpad Pro Getting Started Guide](https://github.com/sbcshop/Makerpad_Pro_Software) - This repo contains Makerpad Pro Getting Started and Sample Codes.
 
 ## Related Products
-  * [ReadPi NFC](https://shop.sb-components.co.uk/products/readpi-an-rfid-nfc-reader-powered-with-raspberry-pi-pico-w?variant=40478483087443) - ReadPi with 13.56MHz NFC reader/writer powered by Raspberry Pi Pico W
-  * [ArdiPi](https://shop.sb-components.co.uk/collections/latest-collections/products/ardipi-uno-r3-alternative-board-based-on-pico-w) - Arduino Uno form factor variants based on Raspberry Pi Pico W
-  * [3.2" Touchsy Pico W](https://shop.sb-components.co.uk/collections/pre-order/products/touchsy-3-2-touch-lcd-display-based-on-pico-w) - 3.2" Touchsy Pico W with Resistive and Capacitive version.
-  * [1.14” LCD HAT](https://shop.sb-components.co.uk/products/1-14-lcd-hat-for-pico) - 1.14” LCD HAT for Pico is a 1.14-inch display expansion board module of 240×135 resolution.
-  * [1.14” LCD breakout](https://shop.sb-components.co.uk/products/1-14-inch-lcd-breakout) - The 1.14” LCD breakout is colorful and easy to experiment with graphics.
+  * [Dual USB Breakout](https://shop.sb-components.co.uk/products/dual-usb-breakout?_pos=2&_sid=47418e842&_ss=r) 
+   
+     ![dual-usb-breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/DualUSBBreakout3.png?v=1676034428&width=300)   
 
+  * [MicroSD Card Breakout](https://shop.sb-components.co.uk/products/sd-card-breakout?_pos=1&_sid=be5068526&_ss=r) 
+   
+     ![SDCardBreakout](https://cdn.shopify.com/s/files/1/1217/2104/products/SDCardBreakout.png?v=1643699904&width=300) 
+
+  * [1.3" LCD Breakout](https://shop.sb-components.co.uk/products/1-3-lcd-breakout?_pos=2&_sid=23eee937e&_ss=r) 
+   
+     ![1.3" LCD Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/01_1_a486ba53-c02b-4491-b110-a9b64736ad39.png?v=1677241189&width=300) 
+
+ 
 ## Product License
 
 This is ***open source*** product. Kindly check LICENSE.md file for more information.
