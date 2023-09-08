@@ -1,5 +1,5 @@
 # Makerpad_Pro_Hardware
-<img src="">
+MakerPad Pro is the ultimate SmartScreen Hub designed to revolutionize your IoT projects. Powered by the ESP32 which is a WiFi + Bluetooth module chip suitable for interesting DIY electronics projects. It is suitable for DIY IoT project involving smart user interface solution.
 
 This GitHub provides hardware design files for Makerpad Pro.
 
